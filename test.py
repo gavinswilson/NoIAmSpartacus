@@ -23,3 +23,5 @@ while True:
         break
 
 serialPort.close()
+
+# hgjkdgc
